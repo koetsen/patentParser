@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: commons-io:commons-io:2.6">
+    <archive path="/home/koet/.m2/repository/commons-io/commons-io/2.6/commons-io-2.6.jar" />
+  </library>
+  <library name="Maven: org.apiguardian:apiguardian-api:1.0.0">
+    <archive path="/home/koet/.m2/repository/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar" />
+  </library>
+  <library name="Maven: org.jsoup:jsoup:1.11.3">
+    <archive path="/home/koet/.m2/repository/org/jsoup/jsoup/1.11.3/jsoup-1.11.3.jar" />
+  </library>
+  <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.4.0-M1">
+    <archive path="/home/koet/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.4.0-M1/junit-jupiter-api-5.4.0-M1.jar" />
+  </library>
+  <library name="Maven: org.junit.platform:junit-platform-commons:1.4.0-M1">
+    <archive path="/home/koet/.m2/repository/org/junit/platform/junit-platform-commons/1.4.0-M1/junit-platform-commons-1.4.0-M1.jar" />
+  </library>
+  <library name="Maven: org.opentest4j:opentest4j:1.1.1">
+    <archive path="/home/koet/.m2/repository/org/opentest4j/opentest4j/1.1.1/opentest4j-1.1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
